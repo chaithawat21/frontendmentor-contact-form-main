@@ -22,7 +22,7 @@ export default {
       },
     },
     screens: {
-      'sm': {'max': '639px'}
+      'sm': {'max': '375px'}
 
     }
   },
